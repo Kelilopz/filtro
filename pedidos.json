@@ -1,0 +1,67 @@
+[
+    {
+        "idcliente": "4",
+        "entradas": [
+            "Papas Fritas",
+            "Dedos de Queso",
+            "Tostada Frances"
+        ],
+        "PlatosFuertes": [
+            "Hamburgusesa",
+            "Arroz al Wok"
+        ],
+        "Bebidas": [
+            "Coca-Cola",
+            "Jugo Natural",
+            "Vino",
+            "Cerveza"
+        ],
+        "Estado": "Servido",
+        "Pago": "Pagado"
+    },
+    {
+        "idcliente": "1",
+        "entradas": [
+            "Dedos de Queso",
+            "Papas Fritas",
+            "Tostada Frances",
+            "Empanadas Mini"
+        ],
+        "PlatosFuertes": [
+            "Pollo al Curry",
+            "Lechona",
+            "Arroz al Wok",
+            "Arroz al Wok"
+        ],
+        "Bebidas": [
+            "Cerveza",
+            "Coca-Cola",
+            "Jugo Natural",
+            "Jugo Natural",
+            "Vino"
+        ],
+        "Estado": "Creado",
+        "Pago": "No Pago"
+    },
+    {
+        "idcliente": "1",
+        "entradas": [
+            "Papas Fritas",
+            "Dedos de Queso",
+            "Tostada Francesa",
+            "Empanadas Mini"
+        ],
+        "PlatosFuertes": [
+            "Pollo al Curry",
+            "Lechona",
+            "Arroz al Wok"
+        ],
+        "Bebidas": [
+            "Coca-Cola",
+            "Vino",
+            "Cerveza"
+        ],
+        "Estado": "Creado",
+        "Pago": "No Pago"
+    }
+]
